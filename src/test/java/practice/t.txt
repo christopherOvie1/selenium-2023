@@ -1,0 +1,20 @@
+instance having non static or instance classes  some stax
+
+
+
+
+
+
+
+
+
+static class has all static
+
+
+
+x ob1= new y()
+ob1.
+
+
+y ob2 = new y
+ob2.                      will be direct or prefered bc its direct
